@@ -53,6 +53,6 @@ Note: The training result includes “retrained_graph.pb” and “retrained_lab
 
 Open “map.ipynb” in Google Colab, then upload “omeka_files.csv”, “retrained_graph.pb”, and “retrained_labels.txt” to the file tab.
 
-Click “Run all”, wait for the program to end and download the “results.txt”
+Tune the threshold in the third to last cell that receives results and click “Run all”, wait for the program to end and download the “results.txt”
 
 
